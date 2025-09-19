@@ -65,6 +65,9 @@ The survey responses have been analyzed to identify overall sentiment levels, de
 
 - Some departments have strong positive engagement, while others contribute disproportionately to negative sentiment.
 
+
+You can interact with the dashboard [here]  (https://app.powerbi.com/view?r=eyJrIjoiMjFlZWZkM2ItYmE4Yy00MWNkLTlkZDctMzQ2N2JmZGI3YjViIiwidCI6ImQ5OTY0Y2ExLTZkNDktNGExYi05NTdkLWM0ODMxNmU4ZWZhNSJ9)
+
 ## Conclusion:
 
 The dashboard reveals a generally positive employee outlook, but with clear weaknesses around recognition, accountability, and workplace relationships. Departmental disparities suggest inconsistent employee experiences across the organization.
